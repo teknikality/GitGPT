@@ -71,9 +71,6 @@ streamlit run app/app.py
 
 Contributions are welcome! Feel free to submit issues and pull requests.
 
-## 📝 License
-
-[Add your license information here]
 
 ---
 
