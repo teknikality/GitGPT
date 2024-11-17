@@ -25,7 +25,7 @@ llm = ChatOpenAI(
 RAG_TEMPLATE = """
 You are an assistant for question-answering tasks. Use the following conversation history and retrieved context to answer the question. 
 If addressing a follow-up question, use both the conversation history and new context to provide a coherent response.
-If you don't know the answer, just say that you don't know. Use two sentences maximum and keep the answer concise.
+If you don't know the answer, as for more context . Use two sentences maximum and keep the answer concise.
 
 <conversation_history>
 {chat_history}
