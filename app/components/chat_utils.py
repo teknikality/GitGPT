@@ -112,7 +112,7 @@ class ChatAgent:
             
         filtered_results = [
             match for match in search_results["matches"]
-            if match["score"] >= 0.5
+            if match["score"] >= 0.3
         ]
         
         # Store context for this question
