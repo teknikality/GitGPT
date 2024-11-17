@@ -58,7 +58,6 @@ Create a `.env` file in the root directory with the following variables:
 ```env
 OPENAI_API_KEY=your-openai-api-key
 PINECONE_API_KEY=your-pinecone-api-key
-PINECONE_ENVIRONMENT=your-pinecone-environment
 DEEPL_API_KEY=your-deepl-api-key  # Optional for translation features
 ```
 
